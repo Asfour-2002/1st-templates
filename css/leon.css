@@ -27,7 +27,7 @@
     .spicial-headings {
         font-size: 60px;
     }
-    ..spicial-headings + p {
+    .spicial-headings + p {
         margin-top: -20px;
     }
 }
